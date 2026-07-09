@@ -73,8 +73,12 @@ A bulk-payroll tool built for the bureaucracy of large orgs — personalized pay
 ### GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dami904&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Joshua's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dami904&theme=default&hide_border=true" alt="Joshua's GitHub streak" height="165"/>
+  <img src="https://img.shields.io/github/followers/Dami904?style=for-the-badge&logo=github&label=Followers&color=181717" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Dami904?style=for-the-badge&logo=github&label=Stars&color=181717" alt="Stars" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Dami904&theme=default&hide_border=true" alt="Joshua's GitHub streak" height="165"/>
 </p>
 
 ---
