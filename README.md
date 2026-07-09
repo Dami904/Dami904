@@ -77,10 +77,6 @@ A bulk-payroll tool built for the bureaucracy of large orgs — personalized pay
   <img src="https://img.shields.io/github/stars/Dami904?style=for-the-badge&logo=github&label=Stars&color=181717" alt="Stars" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Dami904&theme=default&hide_border=true" alt="Joshua's GitHub streak" height="165"/>
-</p>
-
 ---
 
 <p align="center">
