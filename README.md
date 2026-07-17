@@ -1,4 +1,4 @@
-<h1 align="center">Joshua Kolawole</h1>
+<h1 align="center">Dami904</h1>
 <p align="center">Full-stack &amp; Web3 developer — privacy-preserving crypto infrastructure and production SaaS backends.</p>
 
 <p align="center">
