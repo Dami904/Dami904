@@ -98,8 +98,8 @@ Contributor to **[KeeperHub](https://github.com/KeeperHub/keeperhub)**, a platfo
 ## Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,rust,solidity,python,nodejs,nextjs,postgres&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=ts,rust,solidity,python,nodejs,nextjs,postgres&theme=light" alt="TypeScript, Rust, Solidity, Python, Node.js, Next.js, PostgreSQL" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Crust%2Csolidity%2Cpython%2Cnodejs%2Cnextjs%2Cpostgres&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts%2Crust%2Csolidity%2Cpython%2Cnodejs%2Cnextjs%2Cpostgres&theme=light" alt="TypeScript, Rust, Solidity, Python, Node.js, Next.js, PostgreSQL" />
 </picture>
 
 <sub>Also: Move · Noir · Groth16 · Soroban · Foundry · x402 · Circle · NEAR Intents</sub>
